@@ -1,1 +1,3 @@
+//merge conflict fixed
+Here's the required code
 amazing code
